@@ -1,6 +1,7 @@
 <h1 align="center">Tech Dashboard</h1>
 <p align="center">Welcome! This dashboard tracks technician's scanner activity.</p>
 <p align="center">This project WILL NOT work locally, information has been REDACTED for the security of the company(eg. API,database connections...) !</p>
+
 ![Dashboard Screenshot](./dashboard.png)
 
 ## Running the Project Locally
