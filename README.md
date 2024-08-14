@@ -9,7 +9,7 @@ To run this project in development mode, you'll need to follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/JoelOWR/DashJS
+    git clone https://github.com/jcworkport/DashJS
     ```
 
 2. **Navigate into the Project Root Directory and switch to the backend folder**: 
