@@ -1,0 +1,47 @@
+.layout {
+    background: black;
+}
+
+.loading-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+    margin-bottom: 0px;
+}
+
+.mt2 {
+    padding: 0.5rem;
+}
+
+.card {
+    .ant-card-body {
+        border-radius: 10px;
+        box-shadow: 5px 5px 0px rgba(235, 235, 235, 0.137);
+        transition: box-shadow 2s ease-in-out;
+        background-color: aliceblue;
+    }
+}
+
+.card:hover {
+    box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.178); /* Stronger shadow on hover */
+}
+
+/* testing component editing */
+
+.cardcomponent {
+    .ant-statistic-title {
+        font-weight: 600;
+        font-family: monospace;
+    }
+
+    .ant-statistic-content {
+        background-color: ;
+    }
+}
